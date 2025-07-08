@@ -10,9 +10,6 @@ Akcja dla **Discord Bot Maker v14 MOD**, która umożliwia losowe wysyłanie obr
 
 ---
 
-
----
-
 ## ⚙️ Wymagane mody
 
 1. Mod od shadowa do pobrania na https://dbm-polska.github.io/DBM-14/tutorial/
