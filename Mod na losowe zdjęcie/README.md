@@ -1,4 +1,4 @@
-# Mod na losowe zdjęcie z danego folderu - – DBM MOD (v14)
+# Mod na losowe zdjęcie z danego folderu – DBM MOD (v14)
 
 Akcja dla **Discord Bot Maker v14 MOD**, która umożliwia losowe wysyłanie obrazka z folderu znajdującego się w głównym katalogu bota. Można ustawić tytuł, kolor oraz footer embeda.
 
