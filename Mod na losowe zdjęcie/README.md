@@ -6,7 +6,7 @@ Akcja dla **Discord Bot Maker v14 MOD**, która umożliwia losowe wysyłanie obr
 
 ## 🖼️ Podgląd akcji
 
-![Podgląd akcji](preview.png)
+![Podgląd akcji](image.png)
 
 ---
 
