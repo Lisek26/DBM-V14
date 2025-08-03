@@ -29,9 +29,9 @@ module.exports = {
   section: "Messaging",
 
   meta: {
-    version: "1.0.2",
+    version: "7.3.4",
     preciseCheck: false,
-    author: "Lisek",
+    author: "liseczkowy",
   },
 
   fields: ["channelIds"],
@@ -118,3 +118,4 @@ module.exports = {
 
   mod() {},
 };
+
