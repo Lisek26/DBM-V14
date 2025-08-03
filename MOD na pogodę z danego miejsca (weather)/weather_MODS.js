@@ -1,5 +1,5 @@
 module.exports = {
-  name: "Weather",
+  name: "Weather Mods",
   section: "Other Stuff",
   meta: {
     version: "3.2.4",
