@@ -7,7 +7,7 @@ module.exports = {
     author: "liseczkowy",
     authorUrl: "https://github.com/Lisek26/DBM-V14",
     downloadURL:
-      "https://github.com/Shadow64gg/DBM-14/blob/DBM-v14/actions/weather_MOD.js",
+      "https://github.com/Lisek26/DBM-V14/blob/main/MOD%20na%20pogodę%20z%20danego%20miejsca%20(weather)/weather_MOD.js
   },
 
   subtitle(data) {
