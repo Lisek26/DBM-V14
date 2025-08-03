@@ -25,7 +25,7 @@ function saveRelayConfig(config) {
 let relayChannels = loadRelayConfig();
 
 module.exports = {
-  name: "Relay Message Embed",
+  name: "Relay Message Global",
   section: "Messaging",
 
   meta: {
@@ -118,4 +118,5 @@ module.exports = {
 
   mod() {},
 };
+
 
